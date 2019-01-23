@@ -1,0 +1,43 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.wrap {
+	display: grid;
+	grid-template-columns: repeat(8, 1fr);
+}
+
+.a1 {
+	background-color: #FFF;
+	height: 100vh;
+}
+
+.a2 {	
+	background-color: #FDFC01;;
+}
+
+.a3 {
+	background-color: #01FFFF;
+}
+
+.a4 {
+	background-color: #00FE00;
+}
+
+.a5 {
+	background-color: #FE00FE;
+}
+
+.a6 {
+	background-color: #FE0000;
+}
+
+.a7 {
+	background-color: #0000FE;
+}
+
+.a8 {
+	background-color: #000;
+}
+
